@@ -1,1 +1,21 @@
-basics of blockchain
+-----------------------------------basics of blockchain---------------------------------------------
+==>key points
+open to all- whatsapp grp (mg)
+decentralized - distributed
+ledger- copy of all information(transactions)
+efficient
+verify
+permanent
+fault tolerence
+
+==>What is Blockchain?
+The blockchain is a distributed database of records of all transactions or digital events that have been executed and shared among participating parties. Each transaction is verified by the majority of participants of the system.
+Blockchain Technology Records Transaction in Digital Ledger which is distributed over the Network thus making it incorruptible. Anything of value like Land Assets, Cars, etc. can be recorded on Blockchain as a Transaction. 
+
+==>what is in block?
+BN-block no.-no. of each block
+nonce-  no. which is only used once
+data-any type , nodes,partcipants, dependin upon the application
+pH Hash- (previous hash) -hash value- unique value-64 char(hex decimal values-(0-9andA-F)) - to generate haash value on the basis of bn,nonce,data,ph
+-ph value has pervious hash value - we can easily connect the blocks
+* if we want a desiered hash value we can onlu make changes on the nonce other elements in the block are innchangable with the help of bruut try-try-try-but-dont-cry force method
