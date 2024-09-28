@@ -1,1 +1,38 @@
+-->solidity language 
+high level, smart contract, statically typed language= u have to assign a data type, case sensitive aA CONTRACT{}
+
+GAVIN VOOD ( CO FOUNDER) - ETHEREUM - AUG  2014
+smart coin , transaction,DAPPS
+ EXTENSION - .sol
+remix IDE (intergrated development environment)
+  
+
+-->solidity
+datatype
+variable
+conditional statement-if, else
+control structure -loops
+functions- pure function and view function
+access specifier- public, private , external and internal
+events
+structs
+Enum 
+inheritance
+mapping
+array
+
+-->variable- container to store values
+   uint x=1;
+1.address- address public userAddress = 0x7274a36221151bE5266f3091105733683ddf6208; // note- essential to specify the acess specifier
+2. string- string public s = "hellosolidity";
+3. bool- bool public bool = true;
+4. uint8 & uint256
+uint8-->0-255 does not give access to 256 // we can use both positive and negative by using int
+uint256--> bigint
+ 
+uint public max_supply=255;
+uint256 public max_supply=…;// any big number 
+
+
+
 
